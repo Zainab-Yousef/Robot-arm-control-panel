@@ -1,0 +1,2 @@
+# Robot-arm-control-panel
+In this task, I design an interface for the robot arm control panel that contains five buttons to  allow the user to move the robot arm in four directions (right, left, forward, backward). Also, there  is a button for stopping. If the user clicks one of the buttons it will save the value of the button in  the database for example, if the user clicks the forward button the value will insert into the database  and will be printed on a different PHP page.
